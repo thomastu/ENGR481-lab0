@@ -7,3 +7,4 @@ python-dotenv
 shutil
 requests
 jmespath
+altair_data_server
