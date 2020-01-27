@@ -1,0 +1,9 @@
+fastparquet
+altair
+vega_datasets
+dask
+pandas
+python-dotenv
+shutil
+requests
+jmespath
